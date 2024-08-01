@@ -70,7 +70,7 @@ I am passionate about AI and its applications in mechanical engineering, explori
   - Generate synthetic data for damaged machines by using simple simulation models and cycleGANs (image-to-image conversion).
 
 - **Intelligent Fault Diagnosis of Industrial Bearings Using Transfer Learning and CNNs Pre-Trained for Audio Classification**: [Read](https://www.mdpi.com/1424-8220/23/1/211)
-  - Using large sound detection network on bearing vibrations dataset to detect faults.
+  - Adopting large sound detection network to detect bearing faults bearing by means of transfer learning and fine-tuning.
 
 - **Explainable AI for Machine Fault Diagnosis: Understanding Features’ Contribution in Machine Learning Models for Industrial Condition Monitoring**: [Read](https://www.mdpi.com/2076-3417/13/4/2038)
   - SHAP values for explain feature importance in SVM/kNN models for bearing fault detection.
