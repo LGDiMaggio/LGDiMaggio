@@ -2,7 +2,10 @@
 
 I'm Research Assistant at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
 
-I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. My PhD project research focused on employing cycleGANs for synthetic data generation and transfer learning to transfer knowledge from sound recognition CNNs to bearing fault detection. 
+I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. My PhD project:
+- rotating machinery vibration testing.
+- cycleGANs for synthetic data generation.
+- Transfer Learning to transfer knowledge from sound recognition CNNs to bearing fault detection. 
 
 I am passionate about AI and its applications in mechanical engineering, exploring how it can be integrated with classical approaches to enhance capabilities, especially concerning rotating systems, industrial applications, and system diagnosis, with a particular emphasis on bearings.
 
