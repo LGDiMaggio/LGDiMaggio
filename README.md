@@ -47,6 +47,7 @@ I am passionate about AI and its applications in mechanical engineering, explori
 - **Programming & Tools**: Python, MATLAB
 - **AI & Machine Learning**:
   - Feature extraction
+  - Anomaly detection
   - CNNs
   - Transfer Learning
   - Generative Adversarial Networks (GANs)
@@ -55,6 +56,7 @@ I am passionate about AI and its applications in mechanical engineering, explori
 - **Mechanical Engineering & Diagnosis**:
   - Signal Processing
   - Condition Monitoring
+  - Predictive Maintenance
   - Bearing Testing
   - Finite Element Method (FEM)
   - Computational Fluid Dynamics (CFD)
