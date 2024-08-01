@@ -2,7 +2,9 @@
 
 I'm Research Assistant at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
 
-I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. My PhD project:
+I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. 
+
+My PhD in few words:
 - rotating machinery vibration testing.
 - cycleGANs for synthetic data generation.
 - Transfer Learning to transfer knowledge from sound recognition CNNs to bearing fault detection. 
