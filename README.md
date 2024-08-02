@@ -85,4 +85,4 @@ I am passionate about AI and its applications in mechanical engineering, explori
  
 ## Badges
 
-![Effective communication with enterpresises](assertion-WP-Wu7ftSYm8b0RV8MVjAQ.png)
+![Effective communication with enterpresises](images/assertion-WP-Wu7ftSYm8b0RV8MVjAQ.png)
