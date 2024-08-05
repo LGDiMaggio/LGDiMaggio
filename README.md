@@ -1,8 +1,8 @@
 # Hello, I'm Luigi Di Maggio 👋
 
-I'm Research Assistant at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
+- I am Research Assistant at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
 
-I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. 
+- I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. 
 
 My PhD in few words:
 - rotating machinery vibration testing.
@@ -10,6 +10,16 @@ My PhD in few words:
 - Transfer Learning to transfer knowledge from sound recognition CNNs to bearing fault detection. 
 
 I am passionate about AI and its applications in mechanical engineering, exploring how it can be integrated with classical approaches to enhance capabilities, especially concerning rotating systems, industrial applications, and system diagnosis, with a particular emphasis on bearings.
+
+## 🎯 What You Will Find Here
+
+- **Research-Level AI Projects**: Focus on diagnosis of rotating systems and predictive maintenance using AI methodologies.
+  - You will find detailed case studies, code examples, and research findings aimed not only at advancing the field but also serving as educational resources for those new to these topics.
+
+- **Educational Purpose**: These projects serve as a practical introduction to complex AI concepts applied in mechanical engineering, helping both students and professionals gain hands-on experience in AI applications.
+
+- **Hobby-Related Activities**: Projects and activities I engage in for leisure.
+  - These include experiments and projects where I apply technical skills in manifold contexts.
 
 ## 🚀 Current Goals
 
