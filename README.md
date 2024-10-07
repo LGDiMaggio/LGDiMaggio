@@ -1,6 +1,6 @@
 # Hello, I'm Luigi Di Maggio 👋
 
-- I am Assistant Professor at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
+- I am Assistant Professor (non-tenure) at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
 
 - I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. 
 
