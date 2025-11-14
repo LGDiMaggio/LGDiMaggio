@@ -30,7 +30,7 @@ I am passionate about AI and its applications in mechanical engineering, explori
 
 ## 🔭 I’m currently working on
 
-- **LLMs for machine diagnosi and maintenance**: Briding diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol
+- **LLMs for machine diagnosi and maintenance**: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
 - **Synthetic Data Generation**: Creating synthetic dataset in the form of time-domain signals for damaged machinery.
 - **Explainable AI**: Improve the interpretability of black-box diagnosis models for root cause analsysis.
 - **Multibody Modeling**: Developing models for damage in machine components and the resulting dynamic interactions.
