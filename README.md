@@ -93,7 +93,3 @@ I am passionate about AI and its applications in mechanical engineering, explori
  
 - **Design of an Innovative Test Rig for Industrial Bearing Monitoring with Self-Balancing Layout**: [Read](https://www.mdpi.com/2075-1702/10/1/54)
   - Large/medium sized bearings test rig.
- 
-## Badges
-
-![Effective communication with enterpresises](images/assertion-WP-Wu7ftSYm8b0RV8MVjAQ.png)
