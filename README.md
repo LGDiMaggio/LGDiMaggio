@@ -2,7 +2,7 @@
 
 - I am Assistant Professor (non-tenure) at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
 
-- I am a Mechanical Engineer with PhD on Artificial Intelligence applied to machine fault diagnosis. 
+- I am a Mechanical Engineer with PhD on Artificial Intelligence applied to predictive maintenance and machine fault diagnosis. 
 
 My PhD and postodoctoral research in few words:
 - rotating machinery vibration testing.
@@ -30,7 +30,8 @@ I am passionate about AI and its applications in mechanical engineering, explori
 
 ## 🔭 I’m currently working on
 
-- **LLMs for machine diagnosi and maintenance**: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
+- **LLMs for machine diagnosis and maintenance**: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
+- **Anomaly Detection**: Unsupervised and semi-supervised method for the anomaly detection of industrial machinery.
 - **Synthetic Data Generation**: Creating synthetic dataset in the form of time-domain signals for damaged machinery.
 - **Explainable AI**: Improve the interpretability of black-box diagnosis models for root cause analsysis.
 - **Multibody Modeling**: Developing models for damage in machine components and the resulting dynamic interactions.
@@ -60,7 +61,10 @@ I am passionate about AI and its applications in mechanical engineering, explori
 
 ## 💼 Skills
 
-- **Programming & Tools**: Python, MATLAB
+- **Programming & Tools**: Python, MATLAB, Copilot and LLMs assistent programming, Git, Docker, AWS, IoT
+- **Large Language Models**: Claude, GPT, Gemini, AI Agents programming, prompt engineering, guardrails design, MCP servers
+- **Edge devices** and deployment of predictive maintenance, condition monitoring, anomaly detection on microcontrollers (STM32, STWIN.BOX)
+- Vibration monitoring, Motor Current Signature Analysis, Magnetic field monitoring
 - **AI & Machine Learning**:
   - Feature extraction
   - Anomaly detection
