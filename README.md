@@ -111,7 +111,7 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 ### Ph.D. & Student Supervision
 - **Co-supervisor:** 1 Ph.D. student
 - **Thesis supervision:**  MSc + BSc
-- **Research grants:** Scientific supervisor for AI in autonomous diagnostic systems
+- **Research grants:** Scientific supervisor for AI in autonomous LLM-based diagnostic systems
 
 ### PhD Teaching
 - *Advanced AI for Machinery Diagnosis* (PhD level, UPC Barcelona)
