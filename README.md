@@ -1,4 +1,3 @@
-@"
 # Luigi Gianpio Di Maggio, Ph.D.
 
 **Assistant Professor | AI Researcher | Industrial AI Innovator**
