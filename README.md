@@ -27,7 +27,6 @@ Leading the development of production-ready AI systems for condition monitoring,
 
 **Key Achievements:**
 - 🏆 **Applied Sciences Best Paper Award (2025)** for Explainable AI in industrial diagnostics
-- 🥇 **"A. Capocaccia" Award (2023)** from Italian Scientific Society (AIAS) for AI-based bearing monitoring
 - 📊 Created and published **benchmark datasets** for medium-sized industrial bearings with localized faults
 - 🚀 Developed **open-source MCP-based AI agent** for predictive maintenance workflows
 
