@@ -183,6 +183,3 @@ I'm actively seeking collaborations in:
 **Location:** Turin, Italy | Open to hybrid/remote collaboration
 
 ---
-
-.polito.it/personale?p=luigi.dimaggio)</sub>
-"@ | Out-File -FilePath "README.md" -Encoding utf8
