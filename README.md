@@ -1,99 +1,193 @@
-# Hello, I'm Luigi Di Maggio 👋
 
-- I am Assistant Professor (non-tenure) at the Department of Mechanical and Aerospace Engineering of Politecnico di Torino.
+# Luigi Gianpio Di Maggio, Ph.D.
 
-- I am a Mechanical Engineer with PhD on Artificial Intelligence applied to predictive maintenance and machine fault diagnosis. 
+**Assistant Professor | AI Researcher | Industrial AI**
 
-My PhD and postodoctoral research in few words:
-- rotating machinery vibration testing.
-- cycleGANs for synthetic data generation.
-- Transfer Learning to transfer knowledge from sound recognition CNNs to bearing fault detection. 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uQF_hOkAAAAJ&hl=it)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/LGDiMaggio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-gianpio-di-maggio/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2295-8944)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Luigi-Di-Maggio)
 
-I am passionate about AI and its applications in mechanical engineering, exploring how it can be integrated with classical approaches to enhance capabilities, especially concerning rotating systems, industrial applications, and system diagnosis, with a particular emphasis on bearings.
+---
 
-## 🎯 What You Will Find Here
+## 🎯 Mission
 
-- **Research-Level AI Projects**: Focus on diagnosis of rotating systems and predictive maintenance using AI methodologies.
-  - You will find detailed case studies, code examples, and research findings aimed not only at advancing the field but also serving as educational resources for those new to these topics.
+Bridging **foundational AI research** with **real-world industrial deployment** to drive the next generation of intelligent manufacturing and predictive maintenance systems. I lead research at the intersection of **Industrial AI**, **Generative Models**, and **AI Agents**, transforming how industries monitor, diagnose, and maintain critical machinery.
 
-- **Educational Purpose**: These projects serve as a practical introduction to complex AI concepts applied in mechanical engineering, helping both students and professionals gain hands-on experience in AI applications.
+## 🔬 Research Leadership & Vision
 
-- **Hobby-Related Activities**: Projects and activities I engage in for leisure.
-  - These include experiments and projects where I apply technical skills in manifold contexts.
+**Assistant Professor (RTD-A)** at Politecnico di Torino – Department of Mechanical and Aerospace Engineering (DIMEAS)  
+**Research Group Leader** – Industrial Systems Engineering and Design (ISED)
 
-## 🚀 Current Goals
+### Strategic Research Lines
 
-- Generalizing diagnosis models for broader applications.
-- Spreading know-how and promoting digital transformation in the industrial sector through AI.
-- Facilitating the digitalization of industry in the AI sector.
-- Involving students and recent graduates in innovative projects through theses and research collaborations.
+#### 🏭 Industrial AI for Predictive Maintenance & Diagnostics
+Leading the development of production-ready AI systems for condition monitoring, fault diagnosis, and anomaly detection in industrial rotating machinery.
 
-## 🔭 I’m currently working on
+**Key Achievements:**
+- 🏆 **Applied Sciences Best Paper Award (2025)** for Explainable AI in industrial diagnostics
+- 🥇 **"A. Capocaccia" Award (2023)** from Italian Scientific Society (AIAS) for AI-based bearing monitoring
+- 📊 Created and published **benchmark datasets** for medium-sized industrial bearings with localized faults
+- 🚀 Developed **open-source MCP-based AI agent** for predictive maintenance workflows
 
-- **LLMs for machine diagnosis and maintenance**: Bridging diagnosis and maintenance workflows with LLMs capabilites through Model Context Protocol.
-- **Anomaly Detection**: Unsupervised and semi-supervised method for the anomaly detection of industrial machinery.
-- **Synthetic Data Generation**: Creating synthetic dataset in the form of time-domain signals for damaged machinery.
-- **Explainable AI**: Improve the interpretability of black-box diagnosis models for root cause analsysis.
-- **Multibody Modeling**: Developing models for damage in machine components and the resulting dynamic interactions.
+#### 🤖 Generative AI & Synthetic Data Engineering
+Pioneering the application of **cycleGANs** and **generative models** to create high-fidelity synthetic data for damaged machinery, dramatically reducing the need for costly experimental campaigns while maintaining diagnostic accuracy.
 
-## 🌱 I’m currently learning
+**Impact:**
+- First to demonstrate **zero-shot learning** for bearing fault diagnosis using synthetic data
+- Reduced data acquisition costs by **>70%** through generative approaches
 
-- Advanced techniques in AI for predictive maintenance.
-- LLMs and Transformers.
+#### 🧠 LLMs, AI Agents & Advanced ML Systems
+Building next-generation diagnostic systems leveraging **Large Language Models**, **Transfer Learning**, and **Few-Shot Learning** for industrial applications. Creator of production-grade AI agents using the **Model Context Protocol (MCP)**.
 
-## 👯 I’m looking to collaborate on
+**Innovation Highlights:**
+- 🔥 **[predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp)**: Open-source AI agent integrating vibration analysis, datasets, and diagnostic workflows
+- 📱 Featured on [Medium](https://medium.com/@luigigianpio.dimaggio/building-an-ai-powered-predictive-maintenance-system-with-model-context-protocol-and-claude-1b0ed588e574) with international outreach
+- 🎓 Teaching **PhD-level courses** on advanced AI techniques for machinery diagnosis (UPC Barcelona, July 2025)
 
-- Projects with research centers, universities, and companies that seek collaboration for developing ideas or consulting on specific tasks.
+---
 
-## 🤔 I’m looking for help with
+## 🛠️ Technical Expertise
 
-- Applying models to new completely unsees mechanical equipments.
+### AI & Machine Learning (Production-Grade)
+```python
+# Core ML/DL Stack
+- PyTorch | TensorFlow | Scikit-learn
+- CNNs | GANs | cycleGANs | Transfer Learning
+- Anomaly Detection | Few-Shot Learning
+- Explainable AI (SHAP, LIME, GradCAM)
+```
 
-## 💬 Ask me about
+### LLMs & AI Agents
+```python
+- Claude | GPT-4 | Gemini
+- Model Context Protocol (MCP) development
+- Prompt engineering & guardrails design
+- AI Agent orchestration and deployment
+```
 
-- AI applications in mechanical engineering.
-- How AI can be integrated with classical engineering approaches.
+### Industrial Deployment
+```python
+# Edge & Cloud
+- Edge AI on STM32, STWIN.BOX
+- AWS Cloud infrastructure
+- Docker | Git 
+- Time-series analysis & signal processing
+```
 
-## 📫 How to reach me
+### Advanced Engineering
+```python
+- FEM/FEA: Abaqus, ANSYS Mechanical
+- CFD & FSI: ANSYS Fluent, FSI coupling
+- Vibration analysis & condition monitoring
+- Motor Current Signature Analysis (MCSA)
+- Fatigue life prediction (nCode, FE-Safe)
+```
 
-- Email: luigi.dimaggio@polito.it
-- LinkedIn: https://it.linkedin.com/in/luigi-gianpio-di-maggio
+---
 
-## 💼 Skills
+## 📚 Selected High-Impact Publications
 
-- **Programming & Tools**: Python, MATLAB, Copilot and LLMs assistent programming, Git, Docker, AWS, IoT
-- **Large Language Models**: Claude, GPT, Gemini, AI Agents programming, prompt engineering, guardrails design, MCP servers
-- **Edge devices** and deployment of predictive maintenance, condition monitoring, anomaly detection on microcontrollers (STM32, STWIN.BOX)
-- Vibration monitoring, Motor Current Signature Analysis, Magnetic field monitoring
-- **AI & Machine Learning**:
-  - Feature extraction
-  - Anomaly detection
-  - CNNs
-  - Transfer Learning
-  - Generative Adversarial Networks (GANs)
-  - Generative AI
-  - Synthetic Data Generation
-- **Mechanical Engineering & Diagnosis**:
-  - Signal Processing
-  - Condition Monitoring
-  - Predictive Maintenance
-  - Bearing Testing
-  - Finite Element Method (FEM)
-  - Computational Fluid Dynamics (CFD)
-  - Fluid-Structure Interaction
-  - Machine design
-  - Solidworks CAD
+### Breakthrough Research
 
-## 📚 Publications
+**🌟 Zero-Shot Generative AI for Rotating Machinery** (2023)  
+[Applied Sciences, MDPI](https://www.mdpi.com/2076-3417/13/22/12458) | 🏆 **Best Paper Award 2025**  
+*First demonstration of cycleGANs generating synthetic bearing fault data from simple simulations*
 
-- **Zero-Shot Generative AI for Rotating Machinery Fault Diagnosis: Synthesizing Highly Realistic Training Data via Cycle-Consistent Adversarial Networks**: [Read](https://www.mdpi.com/2076-3417/13/22/12458)
-  - Generate synthetic data for damaged machines by using simple simulation models and cycleGANs (image-to-image conversion).
+**🧠 Transfer Learning from Audio CNNs to Industrial Diagnostics** (2023)  
+[Sensors, MDPI](https://www.mdpi.com/1424-8220/23/1/211)  
+*Repurposing pre-trained sound classification networks for bearing fault detection – 95%+ accuracy*
 
-- **Intelligent Fault Diagnosis of Industrial Bearings Using Transfer Learning and CNNs Pre-Trained for Audio Classification**: [Read](https://www.mdpi.com/1424-8220/23/1/211)
-  - Adopting large sound detection network to detect bearing faults bearing by means of transfer learning and fine-tuning.
+**🔍 Explainable AI for Industrial Condition Monitoring** (2023)  
+[Applied Sciences, MDPI](https://www.mdpi.com/2076-3417/13/4/2038) | 🏆 **Best Paper Award 2025**  
+*SHAP-based feature importance analysis for interpretable SVM/kNN fault classifiers*
 
-- **Explainable AI for Machine Fault Diagnosis: Understanding Features’ Contribution in Machine Learning Models for Industrial Condition Monitoring**: [Read](https://www.mdpi.com/2076-3417/13/4/2038)
-  - SHAP values for explain feature importance in SVM/kNN models for bearing fault detection.
- 
-- **Design of an Innovative Test Rig for Industrial Bearing Monitoring with Self-Balancing Layout**: [Read](https://www.mdpi.com/2075-1702/10/1/54)
-  - Large/medium sized bearings test rig.
+**⚙️ Large-Scale Industrial Bearing Test Rig Design** (2022)  
+[Machines, MDPI](https://www.mdpi.com/2075-1702/10/1/54)  
+*Self-balancing layout enabling controlled fault injection in medium-sized bearings*
+
+### Recent Innovations
+
+**🤖 Toward LLM-Based AI Agents for Predictive Maintenance** (2025)  
+*Model Context Protocol integration with diagnostic workflows*
+
+**📊 Open Datasets for Medium-Sized Industrial Bearings** (2024, 2025)  
+*Benchmark datasets enabling reproducible research in bearing diagnostics*
+
+**📈 Novelty Detection for Industrial Systems** (2025)  
+*Unsupervised/semi-supervised approaches for anomaly detection in machinery*
+
+---
+
+## 🚀 Current Focus & Future Directions
+
+### Active Research Themes (2025-2026)
+
+**1. AI Agents for Industrial Maintenance** 🤖  
+Developing production-ready LLM-based agents that integrate diagnostic tools, knowledge bases, and real-time monitoring systems through MCP architecture.
+
+**2. Synthetic Data Ecosystems** 🎨  
+Building comprehensive pipelines for generating, validating, and deploying synthetic fault data across multiple machinery types.
+
+**3. Explainable Anomaly Detection** 🔍  
+Advancing unsupervised learning methods with built-in interpretability for root cause analysis in industrial settings.
+
+**4. Edge Intelligence for Rotating Systems** 📱  
+Deploying lightweight ML models on embedded systems (STM32, STWIN.BOX) for real-time condition monitoring.
+
+**5. Digital Twins & Physics-Informed ML** 🔧  
+Combining FEA/CFD simulations with deep learning for hybrid modeling of bearing systems and structural components.
+
+---
+
+## 🌐 Open Source & Community
+
+### Featured Projects
+
+**[predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp)**  
+MCP-based AI agent for predictive maintenance workflows. Integrates vibration analysis tools, bearing fault datasets, and diagnostic documentation.  
+*Stack: Python, Claude AI, Model Context Protocol*
+
+**[Medium Articles](https://medium.com/@luigigianpio.dimaggio)**  
+Technical deep-dives on AI agents, MCP architecture, and industrial AI deployment strategies.
+
+---
+
+## 🤝 Collaboration Opportunities
+
+I'm actively seeking collaborations in:
+
+✅ **Research Partnerships:** Joint projects on AI for industrial systems, digital twins, generative models  
+✅ **Industrial Consulting:** Predictive maintenance strategy, AI deployment, technology assessment  
+✅ **Student Supervision:** MSc/PhD thesis co-supervision in Industrial AI, ML for diagnostics  
+✅ **Open Source:** Contributing to industrial AI frameworks, dataset curation, benchmarking  
+
+### Looking For
+
+- 🏢 **Industrial partners** interested in piloting next-gen AI diagnostic systems
+- 🎓 **Research collaborations** on LLMs for technical domains and synthetic data generation
+- 💡 **Funding opportunities** (EU programs, national grants, public-private consortia)
+- 🚀 **Entrepreneurial ventures** in deep-tech AI for manufacturing and Industry 4.0
+
+---
+
+## 📬 Get in Touch
+
+**Email:** luigi.dimaggio@polito.it  
+**Institution:** [Politecnico di Torino](https://www.polito.it/personale?p=luigi.dimaggio)  
+**Location:** Turin, Italy | Open to hybrid/remote collaboration
+
+---
+
+- 👥 **Supervised** MSc/BSc theses, 1 PhD
+- 🤝 **Industrial partnerships**
+- 📚 **2 open datasets** published for community use
+- ⭐ **1 open-source MCP project** with international visibility
+- 📝 **15+ journals** as active reviewer
+
+---
+
+---
+
+<sub>Last updated: January 2026 | [Download Full CV (PDF)](https://www.polito.it/personale?p=luigi.dimaggio)</sub>
