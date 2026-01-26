@@ -1,7 +1,7 @@
-
+@"
 # Luigi Gianpio Di Maggio, Ph.D.
 
-**Assistant Professor | AI Researcher | Industrial AI**
+**Assistant Professor | AI Researcher | Industrial AI Innovator**
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uQF_hOkAAAAJ&hl=it)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/LGDiMaggio)
@@ -23,22 +23,23 @@ Bridging **foundational AI research** with **real-world industrial deployment** 
 ### Strategic Research Lines
 
 #### 🏭 Industrial AI for Predictive Maintenance & Diagnostics
-Leading the development of production-ready AI systems for condition monitoring, fault diagnosis, and anomaly detection in industrial rotating machinery.
+Leading the development of production-ready AI systems for condition monitoring, fault diagnosis, and anomaly detection in industrial rotating machinery. My work spans the full AI lifecycle: from experimental data acquisition to deployed edge solutions.
 
 **Key Achievements:**
 - 🏆 **Applied Sciences Best Paper Award (2025)** for Explainable AI in industrial diagnostics
+- 🥇 **"A. Capocaccia" Award (2023)** from Italian Scientific Society (AIAS) for AI-based bearing monitoring
 - 📊 Created and published **benchmark datasets** for medium-sized industrial bearings with localized faults
 - 🚀 Developed **open-source MCP-based AI agent** for predictive maintenance workflows
 
 #### 🤖 Generative AI & Synthetic Data Engineering
-Pioneering the application of **cycleGANs** and **generative models** to create high-fidelity synthetic data for damaged machinery, dramatically reducing the need for costly experimental campaigns while maintaining diagnostic accuracy.
+Pioneering the application of **cycleGANs** and **generative models** to create high-fidelity synthetic data for damaged machinery in 2023, dramatically reducing the need for costly experimental campaigns while maintaining diagnostic accuracy.
 
 **Impact:**
 - First to demonstrate **zero-shot learning** for bearing fault diagnosis using synthetic data
 - Reduced data acquisition costs by **>70%** through generative approaches
 
 #### 🧠 LLMs, AI Agents & Advanced ML Systems
-Building next-generation diagnostic systems leveraging **Large Language Models**, **Transfer Learning**, and **Few-Shot Learning** for industrial applications. Creator of production-grade AI agents using the **Model Context Protocol (MCP)**.
+Building next-generation diagnostic systems leveraging **Large Language Models**, **Transfer Learning**, and **Few-Shot Learning** for industrial applications. Creator of PoC AI agents using the **Model Context Protocol (MCP)**.
 
 **Innovation Highlights:**
 - 🔥 **[predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp)**: Open-source AI agent integrating vibration analysis, datasets, and diagnostic workflows
@@ -46,49 +47,37 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 - 🎓 Teaching **PhD-level courses** on advanced AI techniques for machinery diagnosis (UPC Barcelona, July 2025)
 
 ---
-
 ## 🛠️ Technical Expertise
 
-### AI & Machine Learning
-```python
-# Core ML/DL Stack
-- PyTorch | TensorFlow | Scikit-learn
-- CNNs | GANs | cycleGANs | Transfer Learning
-- Anomaly Detection | Few-Shot Learning
-- Explainable AI (SHAP, LIME, GradCAM)
-```
+### AI & Machine Learning (Production-Grade)
+- **Core ML/DL Stack:** PyTorch | TensorFlow | Scikit-learn
+- **Deep Learning Architectures:** CNNs | GANs | cycleGANs | Transfer Learning
+- **Advanced Methods:** Anomaly Detection | Few-Shot Learning
+- **Explainable AI:** SHAP | LIME | GradCAM
 
 ### LLMs & AI Agents
-```python
-- Claude | GPT-4 | Gemini
-- Model Context Protocol (MCP) development
-- Prompt engineering & guardrails design
-- AI Agent orchestration and deployment
-```
+- **Large Language Models:** Claude | GPT-4 | Gemini
+- **MCP Development:** Model Context Protocol implementation and server design
+- **Prompt Engineering:** Advanced prompting strategies and guardrails design
+- **AI Orchestration:** AI Agent deployment and workflow automation
 
-### Foundation models
-```python
-- Working on developing foundation model for machine diagnosis and maintenance
-```
+### Foundation Models
+- **Research Focus:** Developing foundation models specifically designed for machine diagnosis and maintenance
+- **Transfer Learning:** Adapting pre-trained models to industrial diagnostic tasks
+- **Domain Adaptation:** Building robust models that generalize across machinery types
 
-
-### Working on industrial Deployment
-```python
-# Edge & Cloud
-- Edge AI on STM32, STWIN.BOX
-- AWS Cloud infrastructure
-- Docker | Git 
-- Time-series analysis & signal processing
-```
+### Industrial Deployment
+- **Edge AI:** working on STM32 | STWIN.BOX | Embedded ML systems
+- **Cloud Infrastructure:** working on AWS deployment and scaling
+- **DevOps & MLOps:** Docker | Git | CI/CD pipelines thorugh coding assistant
+- **Signal Processing:** Time-series analysis | Vibration monitoring | Feature extraction | Advanced time-frequency modeling
 
 ### Advanced Engineering
-```python
-- FEM/FEA: Abaqus, ANSYS Mechanical
-- CFD & FSI: ANSYS Fluent, FSI coupling
-- Vibration analysis & condition monitoring
-- Motor Current Signature Analysis (MCSA)
-- Fatigue life prediction (nCode, FE-Safe)
-```
+- **FEM/FEA:** Abaqus | ANSYS Mechanical
+- **CFD & FSI:** ANSYS Fluent | Fluid-Structure Interaction coupling
+- **Condition Monitoring:** Vibration analysis | Modal analysis
+- **Diagnostics:** Motor Current Signature Analysis (MCSA) | Bearing fault detection
+- **Fatigue Analysis:** nCode DesignLife | FE-Safe
 
 ---
 
@@ -97,7 +86,7 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 ### Breakthrough Research
 
 **🌟 Zero-Shot Generative AI for Rotating Machinery** (2023)  
-[Applied Sciences, MDPI](https://www.mdpi.com/2076-3417/13/22/12458) | 🏆 **Best Paper Award 2025**  
+[Applied Sciences, MDPI](https://www.mdpi.com/2076-3417/13/22/12458)
 *First demonstration of cycleGANs generating synthetic bearing fault data from simple simulations*
 
 **🧠 Transfer Learning from Audio CNNs to Industrial Diagnostics** (2023)  
@@ -122,6 +111,22 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 
 **📈 Novelty Detection for Industrial Systems** (2025)  
 *Unsupervised/semi-supervised approaches for anomaly detection in machinery*
+
+---
+
+## 🎓 Leadership & Team Building
+
+### Ph.D. & Student Supervision
+- **Co-supervisor:** 1 Ph.D. student
+- **Thesis supervision:**  MSc + BSc
+- **Research grants:** Scientific supervisor for AI in autonomous diagnostic systems
+
+### PhD Teaching
+- *Advanced AI for Machinery Diagnosis* (PhD level, UPC Barcelona)
+
+### Academic Service & Recognition
+- 📝 **Guest Editor** for Special Issues in *Applied Sciences* and *Electronics* (MDPI)
+- 🔬 **Reviewer** for 15+ international journals (IEEE, ASME, Elsevier, MDPI)
 
 ---
 
@@ -185,14 +190,5 @@ I'm actively seeking collaborations in:
 
 ---
 
-- 👥 **Supervised** MSc/BSc theses, 1 PhD
-- 🤝 **Industrial partnerships**
-- 📚 **2 open datasets** published for community use
-- ⭐ **1 open-source MCP project** with international visibility
-- 📝 **15+ journals** as active reviewer
-
----
-
----
-
-<sub>Last updated: January 2026 | [Download Full CV (PDF)](https://www.polito.it/personale?p=luigi.dimaggio)</sub>
+.polito.it/personale?p=luigi.dimaggio)</sub>
+"@ | Out-File -FilePath "README.md" -Encoding utf8
