@@ -1,6 +1,6 @@
 # Luigi Gianpio Di Maggio, Ph.D.
 
-**Assistant Professor | AI Researcher | Industrial AI Innovator**
+**Assistant Professor | AI Researcher | Industrial AI**
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uQF_hOkAAAAJ&hl=it)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/LGDiMaggio)
