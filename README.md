@@ -18,7 +18,7 @@ Bridging **foundational AI research** with **real-world industrial deployment** 
 ## 🔬 Research Leadership & Vision
 
 **Assistant Professor (RTD-A)** at Politecnico di Torino – Department of Mechanical and Aerospace Engineering (DIMEAS)  
-**Research Group Leader** – Industrial Systems Engineering and Design (ISED)
+**Research Group** – Industrial Systems Engineering and Design (ISED)
 
 ### Strategic Research Lines
 
@@ -49,7 +49,7 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 
 ## 🛠️ Technical Expertise
 
-### AI & Machine Learning (Production-Grade)
+### AI & Machine Learning
 ```python
 # Core ML/DL Stack
 - PyTorch | TensorFlow | Scikit-learn
@@ -66,7 +66,13 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 - AI Agent orchestration and deployment
 ```
 
-### Industrial Deployment
+### Foundation models
+```python
+- Working on developing foundation model for machine diagnosis and maintenance
+```
+
+
+### Working on industrial Deployment
 ```python
 # Edge & Cloud
 - Edge AI on STM32, STWIN.BOX
