@@ -25,12 +25,6 @@ Bridging **foundational AI research** with **real-world industrial deployment** 
 #### 🏭 Industrial AI for Predictive Maintenance & Diagnostics
 Leading the development of production-ready AI systems for condition monitoring, fault diagnosis, and anomaly detection in industrial rotating machinery. My work spans the full AI lifecycle: from experimental data acquisition to deployed edge solutions.
 
-**Key Achievements:**
-- 🏆 **Applied Sciences Best Paper Award (2025)** for Explainable AI in industrial diagnostics
-- 🥇 **"A. Capocaccia" Award (2023)** from Italian Scientific Society (AIAS) for AI-based bearing monitoring
-- 📊 Created and published **benchmark datasets** for medium-sized industrial bearings with localized faults
-- 🚀 Developed **open-source MCP-based AI agent** for predictive maintenance workflows
-
 #### 🤖 Generative AI & Synthetic Data Engineering
 Pioneering the application of **cycleGANs** and **generative models** to create high-fidelity synthetic data for damaged machinery in 2023, dramatically reducing the need for costly experimental campaigns while maintaining diagnostic accuracy.
 
