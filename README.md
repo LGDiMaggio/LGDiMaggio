@@ -29,7 +29,7 @@ Leading the development of production-ready AI systems for condition monitoring,
 Pioneering the application of **cycleGANs** and **generative models** to create high-fidelity synthetic data for damaged machinery in 2023, dramatically reducing the need for costly experimental campaigns while maintaining diagnostic accuracy.
 
 **Impact:**
-- First to demonstrate **zero-shot learning** for bearing fault diagnosis using synthetic data
+- Demonstrate **zero-shot learning** for bearing fault diagnosis using synthetic data
 - Reduced data acquisition costs by **>70%** through generative approaches
 
 #### 🧠 LLMs, AI Agents & Advanced ML Systems
