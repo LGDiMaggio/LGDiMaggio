@@ -75,9 +75,7 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 
 ---
 
-## 📚 Selected High-Impact Publications
-
-### Breakthrough Research
+### Some Research
 
 **🌟 Zero-Shot Generative AI for Rotating Machinery** (2023)  
 [Applied Sciences, MDPI](https://www.mdpi.com/2076-3417/13/22/12458)
