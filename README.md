@@ -116,7 +116,7 @@ Building next-generation diagnostic systems leveraging **Large Language Models**
 - *Advanced AI for Machinery Diagnosis* (PhD level, UPC Barcelona)
 
 ### Academic Service & Recognition
-- 📝 **Guest Editor** for Special Issues in *Applied Sciences* and *Electronics* (MDPI)
+- 📝 **Guest Editor** for Special Issues in [Machines, MDPI](https://www.mdpi.com/journal/machines/special_issues/Z8Q63VTON2) and [Electronics, MDPI](https://www.mdpi.com/journal/electronics/special_issues/mechanical_engineering)
 - 🔬 **Reviewer** for 15+ international journals (IEEE, ASME, Elsevier, MDPI)
 
 ---
