@@ -64,8 +64,10 @@ My research sits at the crossroads of **Industrial AI**, **Generative Models**, 
 
 ### Recent writing
 
-📝 [Talk to Your Machine and Ask How It's Feeling](https://medium.com/@luigigianpio.dimaggio/talk-to-your-machine-and-ask-how-its-feeling-709026e5512a) — Mar 2026 
+📝 [Talk to Your Machine and Ask How It's Feeling](https://medium.com/@luigigianpio.dimaggio/talk-to-your-machine-and-ask-how-its-feeling-709026e5512a) — Mar 2026
+
 📝 [Chat With Your Motor's Current: AI-Powered Motor Diagnostics With MCP Servers](https://medium.com/@luigigianpio.dimaggio/chat-with-your-motors-current-ai-powered-motor-diagnostics-with-mcp-servers-efe7cf97d166) — Feb 2026  
+
 📝 [Building an AI-Powered Predictive Maintenance System with MCP and Claude](https://medium.com/@luigigianpio.dimaggio/building-an-ai-powered-predictive-maintenance-system-with-model-context-protocol-and-claude-1b0ed588e574) — 2025
 
 ---
