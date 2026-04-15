@@ -63,6 +63,9 @@ My research sits at the crossroads of **Industrial AI**, **Generative Models**, 
 ---
 
 ### Recent writing
+
+📝 [I Tried to Build AI Agents for Predictive Maintenance. There Was No Framework for That.](https://medium.com/@luigigianpio.dimaggio/i-tried-to-build-ai-agents-for-predictive-maintenance-there-was-no-framework-for-that-ca26d5d95df4) — April 2026
+
 📝 [Teaching Claude How to Think Like a Maintenance Engineer: Skills, Agents, and Plugins in the Predictive Maintenance MCP](https://medium.com/@luigigianpio.dimaggio/teaching-claude-how-to-think-like-a-maintenance-engineer-skills-agents-and-plugins-in-the-de7cd1cbdb79) — Mar 2026
 
 📝 [When Your AI Assistant Guesses Instead of Measuring: Why LLMs Need Real Tools for Machine Diagnosis](https://medium.com/@luigigianpio.dimaggio/when-your-ai-assistant-guesses-instead-of-measuring-why-llms-need-real-tools-for-machine-diagnosis-a06d7805d416) — Mar 2026
