@@ -63,6 +63,8 @@ My research sits at the crossroads of **Industrial AI**, **Generative Models**, 
 ---
 
 ### Recent writing
+📝 [Sensors for Predictive Maintenance Don’t Talk. Your AI Agent Has to Learn the Language.](https://medium.com/p/a520fe54e850?postPublishedType=initial) — June 2026
+
 📝 [Not Everything a Predictive Maintenance AI Agent Does Is Reasoning.](https://medium.com/@luigigianpio.dimaggio/not-everything-a-predictive-maintenance-ai-agent-does-is-reasoning-a911a8694e2b) — May 2026
 
 📝 [Why Industrial Maintenance AI Needs a Domain Model (And Why I’m Building One).](https://medium.com/@luigigianpio.dimaggio/why-industrial-maintenance-ai-needs-a-domain-model-and-why-im-building-one-07ec55909923) — April 2026
