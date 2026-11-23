@@ -63,6 +63,14 @@ My research sits at the crossroads of **Industrial AI**, **Generative Models**, 
 ---
 
 ### Recent writing
+📝 [Testing Claude for Manufacturing with Predictive Maintenance MCP.](https://medium.com/towards-artificial-intelligence/testing-claude-for-manufacturing-with-predictive-maintenance-mcp-1ca86d0c86b4) — November 2026
+
+📝 [From Vibration Data to Work Orders: Designing Industrial AI Agents with Explicit Boundaries.](https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164) — November 2026
+
+📝 [Asking an AI Assistant What Changed on a Machine.](https://pub.towardsai.net/asking-an-ai-assistant-what-changed-on-a-machine-d59c72af9b68) — November 2026
+
+📝 [When Predictive Maintenance AI Agents Try to Act: What the Safety Tests Revealed.](https://pub.towardsai.net/when-predictive-maintenance-ai-agents-try-to-act-what-the-safety-tests-revealed-599c8cf7d2b3) — November 2026
+
 📝 [Build Asset Maintenance Agent by Talking to Claude Code.](https://medium.com/@luigigianpio.dimaggio/build-asset-maintenance-agent-by-talking-to-claude-code-8980df3a806e) — July 2026
 
 📝 [Sensors for Predictive Maintenance Don’t Talk. Your AI Agent Has to Learn the Language.](https://medium.com/@luigigianpio.dimaggio/sensors-for-predictive-maintenance-dont-talk-your-ai-agent-has-to-learn-the-language-a520fe54e850) — June 2026
